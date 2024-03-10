@@ -1,5 +1,4 @@
 #web
-
 # Technologies
 Déterminer les outils sur lequel tourne le système 
 - wappanalyser, burp, nucléi

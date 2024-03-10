@@ -1,6 +1,4 @@
 #linux
-
-
 # recherche
 - id, history, env ou /proc/self/environ
 - fichier de configuration des technologies

@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d612f7c1ba0f5c88",
+        "id": "ebcef3be2b33ebf6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9ae531141910b9",
+            "id": "408a419007e71777",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "873f6e39e9ef9d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "015c8f8bfcd2edd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74678835def87025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux.md",
+                "file": "notes/web.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/web.md"
               }
             }
           }
@@ -183,14 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0da84d967441a1f0",
+  "active": "408a419007e71777",
   "lastOpenFiles": [
-    "technologies.md",
-    "linux.md",
-    "scripts_pratiques.md",
-    "container.md",
-    "Untitled.md",
-    "web.md",
+    "notes/technologies.md",
+    "notes/scripts_pratiques.md",
+    "notes/linux.md",
+    "notes/container.md",
+    "box/htb_analytics.drawio.png",
+    "box/htb_analytics.drawio",
+    "README.md",
+    "notes/notes.md",
+    "notes",
+    "box",
+    "htb_analytics.drawio.crswap",
+    "htb_analytics.drawio",
+    "notes/web.md",
     "hack_the_box"
   ]
 }
