@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/web.md",
+                "file": "notes/scripts_pratiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/web.md",
+                "file": "notes/scripts_pratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/web.md",
+                "file": "notes/scripts_pratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/web.md"
+                "file": "notes/scripts_pratiques.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "408a419007e71777",
   "lastOpenFiles": [
+    "box/htb_devvotex.drawio.crswap",
+    "box/htb_devvotex.drawio",
+    "notes/linux.md",
+    "notes/web.md",
     "notes/technologies.md",
     "notes/scripts_pratiques.md",
-    "notes/linux.md",
     "notes/container.md",
     "box/htb_analytics.drawio.png",
     "box/htb_analytics.drawio",
@@ -160,7 +163,6 @@
     "box",
     "htb_analytics.drawio.crswap",
     "htb_analytics.drawio",
-    "notes/web.md",
     "hack_the_box"
   ]
 }
