@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/scripts_pratiques.md",
+                "file": "notes/linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cba1988ce78cc8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/technologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/scripts_pratiques.md",
+                "file": "notes/technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/scripts_pratiques.md",
+                "file": "notes/technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/scripts_pratiques.md"
+                "file": "notes/technologies.md"
               }
             }
           }
@@ -146,14 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "408a419007e71777",
+  "active": "cba1988ce78cc8ee",
   "lastOpenFiles": [
+    "protocoles.md",
+    "Pasted image 20240311062124.png",
+    "Pasted image 20240311061418.png",
+    "Pasted image 20240311055958.png",
+    "notes/linux.md",
+    "notes/scripts_pratiques.md",
     "box/htb_devvotex.drawio.crswap",
     "box/htb_devvotex.drawio",
-    "notes/linux.md",
     "notes/web.md",
     "notes/technologies.md",
-    "notes/scripts_pratiques.md",
     "notes/container.md",
     "box/htb_analytics.drawio.png",
     "box/htb_analytics.drawio",
