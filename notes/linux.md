@@ -12,3 +12,7 @@
 - ps axjf -> software qui tournent
 - sudo -l : permet de voir les commandes qu'un utilisateur peut exécuter
 
+
+
+# Forensic
+![[Linux-Forensics-Cheatsheet.pdf]]

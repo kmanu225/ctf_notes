@@ -23,11 +23,15 @@ Facilite de déploiement des site web
 	- possiblement vulnérable aux injections
 - Apache: permet de faire tourner un serveur web
 	- .htaccess: configurer directement le serveur apache par un fichier
+		- modifier le comportement d'un repertoire
 		- créer des redirections
 		- protéger des répertoires 
 		- interdire l'accès au site par certaine adresse ip
+- MIME (Multipurpose Internet Mail Extensions) : specify the type and format of a media. Content-type
 - MacOS
 	- .DS_Store: il s'agit d'un fichier sur les mac qui permet de stocker des informations du dossier dans lequel il se trouve
 - database: 
 	- type de base de données
 	- les commandes varient d'une base de données à l'autre
+- ldap (389), ldaps(636)
+
